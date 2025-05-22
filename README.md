@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sixtus Ijezie
 
 🚀 **Software & DevOps Engineer** | ⚙️ Automating Infrastructure | ☁️ Cloud Enthusiast | 🔒 Secure by Design
 
 ---
 
-I'm a solution-driven engineer passionate about building scalable, secure, and automated systems. I specialize in bridging software development and operations—empowering teams to release faster, with confidence. From infrastructure-as-code and CI/CD pipelines to container orchestration and cloud-native development, I bring a full-stack mindset with a DevOps execution model.
+I'm a solution-driven engineer with a passion for building scalable, secure, and automated systems. I specialize in bridging software development and operations to enable teams to deliver faster with confidence. I bring a full-stack mindset with a DevOps execution model.
 
 ---
 
