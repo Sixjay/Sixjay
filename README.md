@@ -15,7 +15,7 @@ I'm a passionate engineer with a hybrid backgound in software development and De
 - **CI/CD**: GitHub Actions · GitLab CI · Jenkins · ArgoCD
 - **Cloud**: AWS · Azure · GCP (IaC-first mindset)
 - **Monitoring**: Prometheus · Grafana · ELK Stack
-- **Security**: SAST · DAST · Secrets Management · Shift-Left
+- **Security**: SAST · DAST · Secrets Management 
 
 ---
 
