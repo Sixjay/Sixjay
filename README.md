@@ -4,7 +4,7 @@
 
 ---
 
-I'm a solution-driven engineer with a passion for building scalable, secure, and automated systems. I specialize in bridging software development and operations to enable teams to deliver faster with confidence. I bring a full-stack mindset with a DevOps execution model.
+I'm a passionate engineer with a hybrid backgound in software development and DevOps practices. I enjoy building scalable, secure, and maintainable systems—while bridging the gap between development and operations to enable faster and more reliable delivery.
 
 ---
 
